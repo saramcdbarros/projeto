@@ -4,3 +4,13 @@
 
 layout: home
 ---
+
+Hi! Welcome to my new site!
+
+Here we're going to learn how to be nice and kind to people who don't deserve!
+
+Step 1
+
+step 2
+
+Step 3
