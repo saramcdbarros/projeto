@@ -33,6 +33,12 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+collections:
+  comets:
+    output: true
+    permalink: /comets/:path/
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
